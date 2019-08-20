@@ -1,0 +1,26 @@
+.navbar {
+  /* background-image: url("../../images/37223.jpg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  border: solid 8px black;
+}
+
+h1 {
+  font-family: 'Rock Salt', cursive;
+  color: lightgoldenrodyellow;
+  margin: 2rem;
+}
+.nav-link {
+  padding: 1rem;
+  color:#9ca27b;
+}
+
+.navbar-toggler {
+  width: 50%;
+  background-color: black;
+  color: lightgoldenrodyellow;
+  opacity: .6
+}
